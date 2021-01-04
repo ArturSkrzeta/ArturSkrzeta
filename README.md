@@ -11,5 +11,6 @@ My Portfolio is the set of real business case solutions. Each project provides a
 - Process Automation,
 - Machine Learning,
 - Big Data,
+- Clan Code,
 - DevOps solutions.
 
