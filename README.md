@@ -8,6 +8,7 @@ My Portfolio is the set of real business case solutions. Each project provides a
 - Data Analytics,
 - Data Processing,
 - Data Management,
+- Data Visualization,
 - Process Automation,
 - Machine Learning,
 - Big Data,
