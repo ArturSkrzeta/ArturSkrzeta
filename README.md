@@ -15,3 +15,4 @@ My Portfolio is the set of real business case solutions. Each project provides a
 - Clean Code,
 - DevOps solutions.
 
+Over there, you can find both small scripts that automates and facilitates tasks and full stack applications.
