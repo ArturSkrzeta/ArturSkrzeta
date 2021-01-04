@@ -1,4 +1,4 @@
-## Welcome to my github
+## Welcome to my GitHub profile
 
 It is the main repo for my portfolio web-site:
 
